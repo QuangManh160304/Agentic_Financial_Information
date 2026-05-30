@@ -1,0 +1,34 @@
+# .dockerignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# Cache và dữ liệu tạm
+cache/
+data/chroma_db/
+
+# File nhạy cảm
+.env
+
+# Git
+.git/
+.gitignore
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Test
+*.pyc
+.pytest_cache/

@@ -1,0 +1,16 @@
+{
+  "f17f643b9e1564481b69e26a9be0f890": {
+    "answer": "Apple's cumulative return is 87.95%.",
+    "expired_at": 1780037465.8600833,
+    "query_type": "number",
+    "query": "What is Apple's cumulative return?",
+    "saved_at": "2026-05-29 06:46:05"
+  },
+  "6a4f098a601ece8237ba44907900a8e3": {
+    "answer": "Apple's EPS is 8.31 USD/share.",
+    "expired_at": 1780037629.6307461,
+    "query_type": "number",
+    "query": "What is Apple's EPS?",
+    "saved_at": "2026-05-29 06:48:49"
+  }
+}

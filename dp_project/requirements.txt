@@ -1,0 +1,29 @@
+# Google AI - package mới (thay thế google-generativeai đã deprecated)
+google-genai
+
+# Database
+chromadb
+psycopg2-binary
+SQLAlchemy
+
+# Data & Finance
+yfinance
+pandas
+numpy
+ta
+
+# PDF Processing
+pdfplumber
+Pillow
+
+# Web & API
+gradio
+requests
+beautifulsoup4
+
+# AI Workflow
+langgraph
+langchain-core
+
+# Utils
+python-dotenv
